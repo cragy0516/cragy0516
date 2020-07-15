@@ -1,4 +1,13 @@
-### Hi there 👋
+### Junior Security Researcher
+
+### Interested in
+- System Hacking
+- Mobile Security
+- Network
+- (Applied) Cryptography
+
+### Contacts
+- 📫 cragy0516@gmail.com
 
 <!--
 **cragy0516/cragy0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
