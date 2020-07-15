@@ -2,8 +2,8 @@
 
 ### Interested in
 - System Hacking
-- Mobile Security
-- Network
+- Mobile Security (especially iOS)
+- Networks
 - Information Security
 
 ### Contacts
