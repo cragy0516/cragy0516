@@ -4,7 +4,7 @@
 - System Hacking
 - Mobile Security
 - Network
-- (Applied) Cryptography
+- Information Security
 
 ### Contacts
 - 📫 cragy0516@gmail.com
